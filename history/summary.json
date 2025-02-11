@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
     "status": "up",
-    "uptime": "0.46%",
-    "uptimeDay": "0.46%",
-    "uptimeWeek": "0.46%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "0.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 222,
     "timeWeek": 222,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-02-11": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
