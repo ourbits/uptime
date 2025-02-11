@@ -9,6 +9,8 @@ sites:
     url: https://ticket.ourbits.club/
   - name: Ourhelp API
     url: https://api.ourhelp.club/
+    headers:
+      - "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
