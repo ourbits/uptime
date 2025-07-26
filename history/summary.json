@@ -22,10 +22,10 @@
     "url": "https://ticket.ourbits.club/",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.ourbits.club.ico",
     "slug": "ourbits-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 442,
@@ -34,6 +34,7 @@
     "timeMonth": 516,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2025-07-26": 2,
       "2025-07-24": 34
     }
   },
@@ -42,7 +43,7 @@
     "url": "https://api.ourhelp.club/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +54,8 @@
     "timeWeek": 388,
     "timeMonth": 395,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-26": 0
+    }
   }
 ]
