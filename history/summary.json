@@ -4,18 +4,20 @@
     "url": "https://ourbits.club/torrentrss.php?passkey=",
     "icon": "https://icons.duckduckgo.com/ip3/ourbits.club.ico",
     "slug": "ourbits",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 888,
-    "timeWeek": 433,
-    "timeMonth": 364,
+    "timeDay": 586,
+    "timeWeek": 414,
+    "timeMonth": 362,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   },
   {
     "name": "Ourbits Ticket",
