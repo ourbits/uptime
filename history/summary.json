@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 348,
-    "timeDay": 360,
-    "timeWeek": 416,
-    "timeMonth": 386,
+    "timeDay": 459,
+    "timeWeek": 434,
+    "timeMonth": 384,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-08-13": 35
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 451,
-    "timeDay": 365,
-    "timeWeek": 559,
-    "timeMonth": 499,
-    "timeYear": 451,
+    "time": 450,
+    "timeDay": 333,
+    "timeWeek": 543,
+    "timeMonth": 497,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2025-07-24": 34
     }
@@ -46,17 +46,15 @@
     "slug": "ourhelp-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 396,
-    "timeWeek": 649,
-    "timeMonth": 454,
-    "timeYear": 389,
-    "dailyMinutesDown": {
-      "2025-08-23": 8
-    }
+    "time": 388,
+    "timeDay": 379,
+    "timeWeek": 630,
+    "timeMonth": 451,
+    "timeYear": 388,
+    "dailyMinutesDown": {}
   }
 ]
