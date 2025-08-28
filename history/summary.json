@@ -44,19 +44,19 @@
     "url": "https://api.ourhelp.club/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 408,
-    "timeDay": 290,
-    "timeWeek": 794,
-    "timeMonth": 560,
+    "timeDay": 363,
+    "timeWeek": 768,
+    "timeMonth": 559,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-08-28": 21
+      "2025-08-28": 30
     }
   }
 ]
