@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 408,
+    "uptime": "99.99%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 407,
     "timeDay": 283,
     "timeWeek": 849,
     "timeMonth": 568,
-    "timeYear": 408,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 21
     }
   }
 ]
