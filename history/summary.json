@@ -31,7 +31,7 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 451,
-    "timeDay": 375,
+    "timeDay": 333,
     "timeWeek": 470,
     "timeMonth": 497,
     "timeYear": 451,
@@ -46,11 +46,11 @@
     "url": "https://api.ourhelp.club/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 522,
     "timeDay": 303,
@@ -58,7 +58,7 @@
     "timeMonth": 1195,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-09-01": 8,
+      "2025-09-01": 0,
       "2025-08-28": 21
     }
   }
