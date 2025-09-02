@@ -46,7 +46,7 @@
     "url": "https://api.ourhelp.club/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "98.78%",
     "uptimeWeek": "99.62%",
@@ -58,6 +58,7 @@
     "timeMonth": 1171,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2025-09-02": 0,
       "2025-09-01": 18,
       "2025-08-28": 21
     }
