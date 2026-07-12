@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 314,
-    "timeDay": 215,
-    "timeWeek": 243,
-    "timeMonth": 270,
-    "timeYear": 303,
+    "timeDay": 176,
+    "timeWeek": 196,
+    "timeMonth": 267,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2025-08-13": 35,
       "2025-11-18": 91
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
-    "time": 935,
-    "timeDay": 474,
-    "timeWeek": 627,
-    "timeMonth": 529,
-    "timeYear": 1067,
+    "time": 934,
+    "timeDay": 395,
+    "timeWeek": 589,
+    "timeMonth": 525,
+    "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-07-24": 34,
       "2025-08-29": 25,
@@ -93,17 +93,17 @@
     "url": "https://api.ourhelp.club/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "95.94%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.27%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "98.86%",
-    "time": 762,
-    "timeDay": 304,
-    "timeWeek": 294,
-    "timeMonth": 357,
-    "timeYear": 863,
+    "time": 760,
+    "timeDay": 158,
+    "timeWeek": 262,
+    "timeMonth": 346,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2025-08-28": 21,
       "2025-09-01": 18,
@@ -144,7 +144,8 @@
       "2026-04-06": 1440,
       "2026-04-05": 1026,
       "2026-07-09": 234,
-      "2026-07-10": 242
+      "2026-07-10": 242,
+      "2026-07-12": 0
     }
   }
 ]
