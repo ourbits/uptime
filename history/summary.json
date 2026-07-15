@@ -94,11 +94,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "98.78%",
+    "uptime": "99.12%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "89.64%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.75%",
     "time": 756,
     "timeDay": 223,
     "timeWeek": 243,
@@ -147,7 +147,7 @@
       "2026-07-10": 242,
       "2026-07-12": 225,
       "2026-07-13": 227,
-      "2026-07-15": 0
+      "2026-07-15": 116
     }
   }
 ]
