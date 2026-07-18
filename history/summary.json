@@ -13,7 +13,7 @@
     "time": 311,
     "timeDay": 232,
     "timeWeek": 202,
-    "timeMonth": 247,
+    "timeMonth": 238,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-08-13": 35,
@@ -34,7 +34,7 @@
     "time": 930,
     "timeDay": 968,
     "timeWeek": 494,
-    "timeMonth": 489,
+    "timeMonth": 494,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-07-24": 34,
@@ -94,15 +94,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ourhelp.club.ico",
     "slug": "ourhelp-api",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "91.79%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "98.71%",
+    "uptime": "99.07%",
+    "uptimeDay": "88.36%",
+    "uptimeWeek": "90.13%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "98.67%",
     "time": 751,
     "timeDay": 218,
     "timeWeek": 227,
-    "timeMonth": 307,
+    "timeMonth": 305,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2025-08-28": 21,
@@ -149,7 +149,7 @@
       "2026-07-13": 227,
       "2026-07-15": 180,
       "2026-07-16": 195,
-      "2026-07-18": 0
+      "2026-07-18": 168
     }
   }
 ]
