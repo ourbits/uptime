@@ -24,13 +24,13 @@
     "url": "https://ticket.ourbits.club/",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.ourbits.club.ico",
     "slug": "ourbits-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.87%",
-    "time": 911,
+    "time": 912,
     "timeDay": 559,
     "timeWeek": 499,
     "timeMonth": 461,
@@ -83,7 +83,8 @@
       "2026-03-11": 62,
       "2026-04-07": 855,
       "2026-04-06": 1440,
-      "2026-04-05": 1027
+      "2026-04-05": 1027,
+      "2026-08-26": 2
     }
   },
   {
